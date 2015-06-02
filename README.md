@@ -1,0 +1,2 @@
+# StatisticalMechanics
+Metropolis Monte Carlo particle simulations for statistical mechanics in Python and Cython. Simulates Lennard-Jones particles using a Markov chain approach in the NVT and NPT ensembles. Includes random number generators, random walks, Ising model example, and a bonus Metropolis simulation of water molecules in the SPC/E model with trial translations and unit quaternion rotations.
